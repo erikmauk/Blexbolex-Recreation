@@ -8,3 +8,5 @@ and shrinks the man from Victoria's.
 
 To see this JavaScript file for yourself, here is a link to a Cal Poly HTML page where my code is being hosted:
 http://users.csc.calpoly.edu/~emauk/cpe123/
+
+Then, click on "Blexbolex."
