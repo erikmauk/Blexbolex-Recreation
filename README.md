@@ -6,7 +6,4 @@ which was another recreation of a different Blexbolex piece in one of my project
 The project (project 1 which is also on my profile) also animates the biker from my piece
 and shrinks the man from Victoria's.
 
-To see this JavaScript file for yourself, here is a link to a Cal Poly HTML page where my code is being hosted:
-http://users.csc.calpoly.edu/~emauk/cpe123/
-
-Then, click on "Blexbolex."
+Within this repository, you will find a screenshot of the final product attached. Enjoy!
