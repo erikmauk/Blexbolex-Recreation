@@ -1,4 +1,4 @@
-# Blexbolex-Recreation (Introduction to Computing: Lab 2)
+# Blexbolex-Recreation (Computational Art: Lab 2)
 In this lab, I used a reference image of the French artist Blexbolex's piece "Escape" and recreated it using JavaScript.
 
 My work was later combined with one of my classmates, Victoria Rund's work 
